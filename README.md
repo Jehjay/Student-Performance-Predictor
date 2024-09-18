@@ -22,7 +22,7 @@ STEP 3
 STEP 4
 <ul><li>Determine the Target variable and create an Explanatory variable</li></ul>
 <ul><li>Testing and Training data split</li></ul>
-<ul><li>Build machine learning Linear Regression model</li></ul>
+<ul><li>Build the Linear Regression model</li></ul>
 <ul><li>Run Predictions</li></ul>
 STEP 5
 <ul><li>Evaluate the Model</li></ul>
