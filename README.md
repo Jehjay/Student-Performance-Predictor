@@ -8,11 +8,14 @@ Linear Regression
 <li> Math class had a <i>0.03548 variance score and 1.887629 root means squared error (RMSE). </i></li>
 <li> Portuguese class had a <i>0.09151 variance score and 1.803660 root mean squared error (RMSE). </i></li>
 </ul>
+
+<h2> <i>Data</i> </h2>		
 ❖ Non-pre-processed dataset sourced from:
 https://archive.ics.uci.edu/dataset/320/student+performance
 
 ❖ There are 33 features/attributes before data preprocessing for both Mathematics and Portuguese classes. The Mathematics class has 395 records while the Portuguese class has 649 records.
 
+<h2> <i>Work Flow</i> </h2>		
 STEPS 1
 <ul><li>Import libraries</li></ul>
 STEP 2
