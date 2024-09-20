@@ -4,9 +4,6 @@ Linear Regression
 <h2> <i>Aim</i> </h2>		
 <ul>
 <li> To Develop a secondary school student performance prediction tool to identify various variables that affect educational success and failure in secondary education based on real-world data on two core subjects - mathematics and Portuguese, which provide fundamental knowledge for success in the remaining subjects - collected using school reports and questionnaires.<i>Techstack</i>: Python 3.7, numpy, pandas, matplotlib, sklearn, seaborn. </li>
-<li> I Developed a Linear regression supervised machine learning classification model whose numerical predicted value output ranges from I to V: I-(excellent/very good), II-(good), III-(satisfactory), IV-(sufficient) and V-(fail) based on the Erasmus grade conversion system.</li>
-<li> Math class had a <i>0.03548 variance score and 1.887629 root means squared error (RMSE). </i></li>
-<li> Portuguese class had a <i>0.09151 variance score and 1.803660 root mean squared error (RMSE). </i></li>
 </ul>
 
 <h2> <i>Data</i> </h2>		
@@ -30,3 +27,10 @@ STEP 4
 STEP 5
 <ul><li>Evaluate the Model</li></ul>
 <ul><li>Visualise results</li></ul>
+
+<h2> <i>Results</i> </h2>
+<ul>
+<li> I Developed a Linear regression supervised machine learning classification model whose numerical predicted value output ranges from I to V: I-(excellent/very good), II-(good), III-(satisfactory), IV-(sufficient) and V-(fail) based on the Erasmus grade conversion system.</li>
+<li> Math class had a <i>0.03548 variance score and 1.887629 root means squared error (RMSE). </i></li>
+<li> Portuguese class had a <i>0.09151 variance score and 1.803660 root mean squared error (RMSE). </i></li>
+</ul>
