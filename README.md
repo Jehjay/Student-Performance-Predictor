@@ -15,7 +15,8 @@ Linear Regression
 
 <h2> <i>Data</i> </h2>		
 ❖ Non-pre-processed dataset sourced from:
-[Student performance dataset](https://archive.ics.uci.edu/dataset/320/student+performance)
+
+[Student performance dataset](https://archive.ics.uci.edu/dataset/320/student+performance).
 
 ❖ There are 33 features/attributes before data preprocessing for both Mathematics and Portuguese classes. The Mathematics class has 395 records while the Portuguese class has 649 records.
 
