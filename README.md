@@ -35,3 +35,6 @@ STEP 4
 STEP 5
 <ul><li>Evaluate the Model</li></ul>
 <ul><li>Visualise results</li></ul>
+
+## **Developer**
+[Jehoram Mwila](https://www.linkedin.com/in/jehoram-m-1b1772124/), Data and MLOps Engineer
